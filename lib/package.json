@@ -1,0 +1,19 @@
+{
+  "name": "react-forms-set",
+  "version": "0.0.1",
+  "description": "reusable react form components ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "form",
+    "components"
+  ],
+  "peerDependencies": {
+    "react": ">=17.0.2"
+  },
+  "author": "ashwinkumar2438@gmail.com",
+  "license": "ISC"
+}
